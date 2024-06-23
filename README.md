@@ -3,7 +3,7 @@ As a student majoring in Information Technology at Politeknik Negeri Bali, I am 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pande_praditya33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/I Gede Pande Praditya) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pande_praditya33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pande-praditya) 
 ---
 [![](https://visitcount.itsvg.in/api?id=PandePraditya&icon=0&color=9)](https://visitcount.itsvg.in)
 
