@@ -1,4 +1,4 @@
-Hello Everyone 👋, Im Pande Praditya
+## Hello Everyone 👋, Im Pande Praditya
 
 # 💫 About Me:
 As a student majoring in Information Technology at Politeknik Negeri Bali, I am passionate about web development, specializing in back-end development. Proficient in Laravel, I have delivered several projects featuring efficient and scalable solutions. Additionally, I have practical experience in mobile development, enhancing my ability to deliver comprehensive solutions across platforms.
