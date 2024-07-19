@@ -26,9 +26,8 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/pande-praditya/)
+- [Instagram](https://www.instagram.com/gdpdede2/)
 
 ### ✍️ Inspiration for Developers
 
