@@ -23,9 +23,13 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 ### Hosting
 - ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-## 📈 GitHub Stats
+## 🌟 Projects
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PandePraditya&show_icons=true&theme=radical)
+### Project 1: [Project Name](https://github.com/PandePraditya/laravel-admin-pm)
+Description of your project.
+
+### Project 2: [Project Name](https://github.com/PandePraditya/admin)
+Description of your project.
 
 ## 🔗 Connect with Me
 
@@ -37,4 +41,4 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 > **"Everybody in this country should learn how to program a computer because it teaches you how to think."**  
 > – *Steve jobs*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐️ From [I Gede Pande Praditya](https://github.com/PandePraditya)
