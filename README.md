@@ -26,10 +26,10 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 ## 🌟 Projects
 
 ### Project 1: [Laravel Admin Dashboard](https://github.com/PandePraditya/laravel-admin-pm)
-Description of your project.
+Created an admin dashboard using Laravel 
 
 ### Project 2: [Laravel Filament](https://github.com/PandePraditya/Admin-Dashboard-using-Filament)
-Description of your project.
+Created an admin dashboard and dynamic main page using Laravel Filament
 
 ## 🔗 Connect with Me
 
