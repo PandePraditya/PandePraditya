@@ -11,6 +11,7 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
@@ -20,7 +21,7 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 ### CI/CD
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-### Hosting
+### Cloud
 - ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ## 🌟 Projects
@@ -40,5 +41,3 @@ Created an admin dashboard and dynamic main page using Laravel Filament
 
 > **"Everybody in this country should learn how to program a computer because it teaches you how to think."**  
 > – *Steve jobs*
-
-⭐️ From [I Gede Pande Praditya](https://github.com/PandePraditya)
