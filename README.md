@@ -37,7 +37,7 @@ Created an admin dashboard and dynamic main page using Laravel Filament
 - [LinkedIn](https://www.linkedin.com/in/pande-praditya/)
 - [Instagram](https://www.instagram.com/gdpdede2/)
 
-### ✍️ Inspiration for Developers
+### ✍️ My Inspirations
 
 > **"Everybody in this country should learn how to program a computer because it teaches you how to think."**  
 > – *Steve jobs*
