@@ -31,7 +31,7 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 
 - [LinkedIn](https://www.linkedin.com/in/pande-praditya/)
 - [Instagram](https://www.instagram.com/gdpdede2/)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandepraditya@gmail.com)
 
 ### ✍️ My Inspirations
 
