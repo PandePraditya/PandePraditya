@@ -2,6 +2,9 @@
 
 I'm a passionate Web Developer with a knack for creating dynamic and responsive web applications. I enjoy learning new technologies and constantly improving my skills.
 
+- 💻 I'm currently in the process of learning Back End Development and Cloud Computing.
+- 🎮 I sometimes play games on my free time.
+
 ## 🛠 Skills & Technologies
 
 ### Web Development
