@@ -5,7 +5,7 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 - 💻 I'm currently in the process of learning Back End Development and Cloud Computing.
 - 🎮 I sometimes play games on my free time.
 
-## 🛠 Skills & Technologies
+## 🛠 Tech Stack
 
 ### Web Development
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,18 +27,11 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 ### Cloud
 - ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-## 🌟 Projects
-
-### Project 1: [Laravel Admin Dashboard](https://github.com/PandePraditya/laravel-admin-pm)
-Created an admin dashboard using Laravel 
-
-### Project 2: [Laravel Filament](https://github.com/PandePraditya/Admin-Dashboard-using-Filament)
-Created an admin dashboard and dynamic main page using Laravel Filament
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pande-praditya/)
 - [Instagram](https://www.instagram.com/gdpdede2/)
+- [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### ✍️ My Inspirations
 
