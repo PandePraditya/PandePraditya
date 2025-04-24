@@ -3,6 +3,7 @@
 I'm a passionate Web Developer with a knack for creating dynamic and responsive web applications. I enjoy learning new technologies and constantly improving my skills.
 
 - 💻 I'm currently in the process of learning Back End Development and Cloud Computing.
+- 🧪 I also practice Quality Assurance (QA) — managing bug reports and test cases using Notion.
 - 🎮 I sometimes play games on my free time.
 
 ## 🛠 Tech Stack
@@ -20,9 +21,15 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 
 ### Databases
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### CI/CD
+### QA & Testing
+- 📋 Test case management using **Notion** ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- 🐞 Handling bug reports and tracking
+- ✅ Writing positive, negative, and exploratory test cases
+- 🔍 Manual UI/UX inspection and functionality validation
+
+### Version Control
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ## 🔗 Connect with Me
