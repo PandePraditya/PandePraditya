@@ -5,6 +5,7 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 - 💻 I'm currently in the process of learning Back End Development and Cloud Computing.
 - 🧪 I also practice Quality Assurance (QA) — managing bug reports and test cases using Notion.
 - 🎮 I sometimes play games on my free time.
+- 🍵 I'm also a tea enthusiast
 
 ## 🛠 Tech Stack
 
