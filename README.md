@@ -24,7 +24,9 @@ I'm a passionate Web Developer with a knack for creating dynamic and responsive 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### QA & Testing
-- 📋 Test case management using **Notion** ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- # I do all my QA & Testing in Notion
+- 📋 Test case management
 - 🐞 Handling bug reports and tracking
 - ✅ Writing positive, negative, and exploratory test cases
 - 🔍 Manual UI/UX inspection and functionality validation
