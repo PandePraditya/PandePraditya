@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Developer with a talent for building dynamic, responsive web applications. I thrive on learning new technologies and continuously refining my skills.
 
-- 💻 I'm currently in the process of learning Cloud Computing & Cypress automation testing.
+- 💻 I'm currently in the process of learning AWS Cloud Computing & Cypress automation testing.
 - 🧪 I also practice Quality Assurance (QA) — managing bug reports and test cases using Notion.
 - 🎮 I sometimes play games on my free time.
 - 🍵 I'm also a Tea Enthusiast
@@ -23,6 +23,12 @@ I'm a passionate Full Stack Developer with a talent for building dynamic, respon
 ### Databases
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔧 Other Tools
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### QA & Testing
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
