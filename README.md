@@ -1,11 +1,11 @@
-# Hi there, I'm I Gede Pande Praditya 👋
+# Hi there, I'm Pande Praditya 👋
 
-I'm a passionate Web Developer with a knack for creating dynamic and responsive web applications. I enjoy learning new technologies and constantly improving my skills.
+I'm a passionate Full Stack Developer with a talent for building dynamic, responsive web applications. I thrive on learning new technologies and continuously refining my skills.
 
-- 💻 I'm currently in the process of learning Back End Development and Cloud Computing.
+- 💻 I'm currently in the process of learning Cloud Computing & Cypress automation testing.
 - 🧪 I also practice Quality Assurance (QA) — managing bug reports and test cases using Notion.
 - 🎮 I sometimes play games on my free time.
-- 🍵 I'm also a tea enthusiast
+- 🍵 I'm also a Tea Enthusiast
 
 ## 🛠 Tech Stack
 
