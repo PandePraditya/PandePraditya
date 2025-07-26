@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Developer with a talent for building dynamic, responsive web applications. I thrive on learning new technologies and continuously refining my skills.
 
-- 💻 I'm currently in the process of learning AWS Cloud Computing & Cypress automation testing.
+- 💻 I'm currently in the process of learning AWS Cloud Computing while using Github Actions for CI/CD.
 - 🧪 I also practice Quality Assurance (QA) — managing bug reports and test cases using Notion.
 - 🎮 I sometimes play games on my free time.
 - 🍵 I'm also a Tea Enthusiast
