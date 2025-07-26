@@ -30,6 +30,7 @@ I'm a passionate Full Stack Developer with a talent for building dynamic, respon
 ### 🔧 Other Tools
 - ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 - ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### QA & Testing
 - I do all of my QA & Testing in **Notion** 
