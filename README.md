@@ -35,7 +35,7 @@ I'm a passionate Software Developer with a talent for building dynamic, responsi
 - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### QA & Testing
-- I do all of my QA & Testing in **Notion** 
+- I do all of my QA & Testing in **Notion** & **Cypress**
 - 📋 Test case management 
 - 🐞 Handling bug reports and tracking
 - ✅ Writing positive, negative, and exploratory test cases
