@@ -9,7 +9,7 @@ I'm a passionate Software Developer with a talent for building dynamic, responsi
 
 ## 🛠 Tech Stack
 
-### Web Development
+### 🌐 Web Development
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ I'm a passionate Software Developer with a talent for building dynamic, responsi
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 - ![Nuxt.js](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-### Databases
+### 🗃️ Databases
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -34,14 +34,14 @@ I'm a passionate Software Developer with a talent for building dynamic, responsi
 - ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### QA & Testing
+### 🧪 QA & Testing
 - I do all of my QA & Testing in **Notion** & **Cypress**
 - 📋 Test case management 
 - 🐞 Handling bug reports and tracking
 - ✅ Writing positive, negative, and exploratory test cases
 - 🔍 Manual UI/UX inspection and functionality validation
 
-### Version Control
+### 🎛️ Version Control
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ## 🔗 Connect with Me
